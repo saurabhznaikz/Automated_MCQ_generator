@@ -1,7 +1,7 @@
 # Automated MCQ question
 This system helps user to create mcq question alongwith the correct answer based on the input text.
 
-
+![Automated MCQ question generator](https://github.com/saurabhznaikz/Automated_MCQ_generator/blob/main/mcq%20generator.gif)
 
 ## Installation
 Create virtual environment for python 3.10
